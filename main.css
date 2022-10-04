@@ -11,8 +11,7 @@ body{
     align-items: center;
     flex-flow: column nowrap;
     height:100vh;
-    font-family: 'Cedarville Cursive', cursive;
-}
+    font-family: 'Passions Conflict', cursive;}
 h1{
     margin-top:5vh;
     margin-bottom:1vh;
